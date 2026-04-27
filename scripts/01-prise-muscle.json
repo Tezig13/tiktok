@@ -29,7 +29,7 @@
       "lines": [
         { "text": "2. ne compte pas", "size": 52, "weight": "bold", "y": 820 },
         { "text": "tes protéines au feeling", "size": 48, "weight": "bold", "y": 895 },
-        { "text": "tracke exact : 1g par livre", "size": 40, "weight": "normal", "y": 1010 },
+        { "text": "compte exact : 2g par kilo", "size": 40, "weight": "normal", "y": 1010 },
         { "text": "de poids de corps.", "size": 40, "weight": "normal", "y": 1070 }
       ]
     },

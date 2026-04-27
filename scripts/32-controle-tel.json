@@ -37,11 +37,11 @@
       ]
     },
     {
-      "imageTheme": "gym",
+      "imageTheme": "focus_desk",
       "overlay": 0.35,
       "lines": [
         {
-          "text": "1. enlève les apps du home screen",
+          "text": "1. enlève les apps de l'écran d'accueil",
           "size": 50,
           "weight": "bold",
           "y": 880
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "imageTheme": "gym",
+      "imageTheme": "focus_desk",
       "overlay": 0.35,
       "lines": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "imageTheme": "gym",
+      "imageTheme": "focus_desk",
       "overlay": 0.35,
       "lines": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "imageTheme": "gym",
+      "imageTheme": "focus_desk",
       "overlay": 0.55,
       "lines": [
         {
@@ -149,7 +149,7 @@
           "y": 880
         },
         {
-          "text": "out of sight = out of mind.",
+          "text": "loin des yeux, loin du cœur.",
           "size": 42,
           "weight": "normal",
           "y": 950

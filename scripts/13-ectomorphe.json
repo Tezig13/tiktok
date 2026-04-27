@@ -88,7 +88,7 @@
       "overlay": 0.35,
       "lines": [
         {
-          "text": "3. compound lifts only",
+          "text": "3. que des gros mouvements",
           "size": 50,
           "weight": "bold",
           "y": 880
@@ -130,7 +130,7 @@
           "y": 323
         },
         {
-          "text": "c'est ton cheat code.",
+          "text": "c'est ton arme secrète.",
           "size": 38,
           "weight": "normal",
           "y": 376

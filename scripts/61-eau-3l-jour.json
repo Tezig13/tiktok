@@ -37,7 +37,7 @@
       ]
     },
     {
-      "imageTheme": "gym",
+      "imageTheme": "focus_desk",
       "overlay": 0.35,
       "lines": [
         {
@@ -53,7 +53,7 @@
           "y": 950
         },
         {
-          "text": "out of sight = oubli.",
+          "text": "hors de vue = oubli.",
           "size": 42,
           "weight": "normal",
           "y": 1009
