@@ -1,0 +1,165 @@
+{
+  "_meta": {
+    "title": "Voici comment j'ai construit une discipline de fer en 1 an",
+    "template_id": "voici-les-conseils",
+    "tags": [
+      "discipline",
+      "transformation"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "voici comment j'ai",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "construit une discipline",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "de fer en 1 an.",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "1. j'ai arrêté de me fier",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "à ma motivation",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "elle ment 99% du temps.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. j'ai construit des systèmes",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "tenue prête, alarme,",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "process automatiques.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. j'ai rendu l'effort",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "ridiculement petit.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "3 pompes minimum par jour.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. j'utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "c'est le plus gros levier.",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "mon tel décide pour moi",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "quand je suis flou.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. j'ai accepté les jours nazes",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "30% des jours sont mauvais.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "tu tiens quand même.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

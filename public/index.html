@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Scrollups Generator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <header>
+      <h1>🚀 ScrollUps · Generator</h1>
+      <p class="tagline">Crée tes slideshows TikTok en 2 minutes.</p>
+    </header>
+
+    <section class="step" id="step-config">
+      <h2>1. Choisir un script ou un template</h2>
+      <div class="row">
+        <label>
+          <span>📚 Script ou template</span>
+          <select id="source-select"></select>
+        </label>
+        <label>
+          <span>Nom du post (dossier de sortie)</span>
+          <input id="post-name" type="text" placeholder="post-lundi">
+        </label>
+      </div>
+    </section>
+
+    <section class="step" id="step-form">
+      <h2>2. Écris le contenu</h2>
+      <div id="slides-container"><p class="muted">Chargement...</p></div>
+    </section>
+
+    <section class="step actions">
+      <button id="generate-btn" class="primary">⚡ Générer le slideshow</button>
+      <button id="reroll-btn" class="secondary" disabled>🎲 Re-roll des images</button>
+    </section>
+
+    <section class="step" id="step-output">
+      <h2>3. Résultat</h2>
+      <div id="output-status" class="muted">Aucun slideshow généré pour le moment.</div>
+      <div id="output-grid" class="output-grid"></div>
+      <div id="output-actions" class="output-actions hidden">
+        <button id="open-folder-btn" class="secondary">📂 Ouvrir le dossier</button>
+        <span class="muted" id="output-path"></span>
+      </div>
+    </section>
+
+    <section class="step" id="step-history">
+      <h2>Slideshows précédents</h2>
+      <div id="history-list" class="history-list"><p class="muted">Chargement...</p></div>
+    </section>
+  </div>
+
+  <div id="toast" class="toast hidden"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

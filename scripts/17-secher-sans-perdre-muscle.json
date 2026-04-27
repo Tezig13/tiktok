@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "title": "Comment sécher sans perdre ton muscle",
+    "template_id": "comment-sans",
+    "tags": [
+      "sec",
+      "muscle"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "Comment sécher",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "sans perdre ton muscle",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "(durement gagné).",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. déficit modéré",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "-300 à -500 cal max.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "plus = catastrophe musculaire.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. protéines élevées",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "2g/kg en sèche.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "non négociable.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. continue à soulever lourd",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "garde tes charges.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "la sèche c'est nutrition pas gym.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "en sèche tu perds",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "la motivation à J21.",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "le tel décide pour toi.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. cardio raisonné",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "3-4x/sem max.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "pas tous les jours.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

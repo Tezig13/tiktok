@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "title": "Voici comment j'ai arrêté de scroller 6h par jour",
+    "template_id": "voici-les-conseils",
+    "tags": [
+      "scroll",
+      "phone",
+      "testimonial"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "voici comment j'ai",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "arrêté de scroller",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "6h par jour.",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "1. j'ai accepté que je suis accro",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "déni = pas de solution.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "la conscience c'est l'étape 1.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. j'ai retiré l'app du home screen",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "un swipe de plus = 70% en moins.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "la friction c'est tout.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. j'ai remplacé, pas supprimé",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "un livre dans ma poche.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "quand j'avais l'envie.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. j'utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "le truc qui a vraiment marché.",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "tel = pompes d'abord.",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "récupéré 4h/jour.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. j'ai arrêté de me battre",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "contre moi-même.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "j'ai installé un système qui décide.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

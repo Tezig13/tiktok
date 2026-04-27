@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "title": "5 suppléments à éviter (waste of money)",
+    "template_id": "5-a-eviter",
+    "tags": [
+      "supplements",
+      "nutrition"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "5 suppléments à ÉVITER",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "pour économiser",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "ton argent.",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. les multi-vitamines",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "si tu manges varié.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "100% inutile.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. les BCAA",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "si tu manges des protéines.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "déjà dedans.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. les fat burners",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "aucune étude solide.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "poubelle.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "pas un supplément.",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "mais 100x plus efficace.",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "et c'est gratuit.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. les pre-workouts",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "caféine + sucre.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "un café normal suffit.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "title": "S'entraîner tous les jours sans se forcer",
+    "template_id": "comment-sans",
+    "tags": ["habit", "motivation", "system"]
+  },
+  "defaults": { "fontFamily": "Montserrat, sans-serif", "color": "#ffffff", "align": "center" },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        { "text": "Comment t'entraîner", "size": 58, "weight": "bold", "y": 1100 },
+        { "text": "tous les jours", "size": 58, "weight": "bold", "y": 1180 },
+        { "text": "sans te forcer.", "size": 58, "weight": "bold", "y": 1260 }
+      ]
+    },
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        { "text": "1. arrête la motivation", "size": 52, "weight": "bold", "y": 900 },
+        { "text": "c'est pas un carburant.", "size": 44, "weight": "normal", "y": 995 },
+        { "text": "c'est de la chance.", "size": 44, "weight": "normal", "y": 1065 }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.4,
+      "lines": [
+        { "text": "2. commence par 3 min", "size": 52, "weight": "bold", "y": 820 },
+        { "text": "pas 30.", "size": 58, "weight": "bold", "y": 910 },
+        { "text": "plus la barrière est basse,", "size": 40, "weight": "normal", "y": 1010 },
+        { "text": "plus tu tiens.", "size": 40, "weight": "normal", "y": 1075 }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "lines": [
+        { "text": "3. lie l'action à une", "size": 50, "weight": "bold", "y": 880 },
+        { "text": "habitude existante", "size": 50, "weight": "bold", "y": 955 },
+        { "text": "avant le café,", "size": 42, "weight": "normal", "y": 1065 },
+        { "text": "avant le scroll.", "size": 42, "weight": "normal", "y": 1130 }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        { "text": "4. utilise ScrollUps", "size": 64, "weight": "bold", "y": 180 },
+        { "text": "le scroll devient", "size": 40, "weight": "normal", "y": 290 },
+        { "text": "ta RÉCOMPENSE,", "size": 42, "weight": "bold", "y": 345 },
+        { "text": "pas ta distraction.", "size": 40, "weight": "normal", "y": 410 }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        { "text": "5. ne pense pas", "size": 52, "weight": "bold", "y": 870 },
+        { "text": "aux bénéfices dans 6 mois", "size": 44, "weight": "bold", "y": 950 },
+        { "text": "pense à l'énergie", "size": 44, "weight": "normal", "y": 1065 },
+        { "text": "d'aujourd'hui.", "size": 44, "weight": "normal", "y": 1130 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "scrollups-tiktok-pipeline",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate": "node generate-slides.js",
+    "schedule": "node batch-schedule.js",
+    "web": "node server.js"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.59",
+    "express": "^4.22.1",
+    "sharp": "^0.33.5"
+  }
+}

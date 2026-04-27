@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "title": "Comment voir tes abdos en 60 jours — 5 erreurs",
+    "template_id": "5-a-eviter",
+    "tags": [
+      "abdos",
+      "sèche"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "5 erreurs qui te",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "cachent tes abdos",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "depuis 1 an.",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. tu fais 100 crunches/jour",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "les abdos c'est 90% nutrition.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "arrête les crunches.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. tu manges propre mais trop",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "clean food = food.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "le déficit reste obligatoire.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. tu fais que du cardio",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "tu perds du muscle aussi.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "soulève lourd EN MÊME TEMPS.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "la régularité bat l'intensité.",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "60 jours zéro skip",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "> 30 jours intensifs.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "hook_viral_homme",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. tu lâches à 5kg du but",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "les abdos apparaissent",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "dans les derniers 3kg.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

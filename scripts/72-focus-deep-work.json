@@ -1,0 +1,163 @@
+{
+  "_meta": {
+    "title": "Comment faire 4h de deep work par jour",
+    "template_id": "comment-sans",
+    "tags": [
+      "focus",
+      "productivité"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "Comment faire 4h",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "de deep work",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "tous les jours.",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "focus_desk",
+      "lines": [
+        {
+          "text": "1. travaille avant de scroller",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "cerveau frais = focus max.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "1ère heure = la meilleure.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "focus_desk",
+      "lines": [
+        {
+          "text": "2. blocs de 90 min",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "25 min trop courts.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "90 min = état de flow.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "focus_desk",
+      "lines": [
+        {
+          "text": "3. tel hors de la pièce",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "vraiment.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "dans une autre pièce.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "le tel bloqué pendant le deep work.",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "impossible de craquer.",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "focus garanti.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "focus_desk",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. casque + musique sans paroles",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "déconnexion totale.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "3h passent en 1h.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

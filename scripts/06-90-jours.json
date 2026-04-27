@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "title": "Changer ton corps en 90 jours — 5 erreurs",
+    "template_id": "5-a-eviter",
+    "tags": ["transformation", "90-days", "habit"]
+  },
+  "defaults": { "fontFamily": "Montserrat, sans-serif", "color": "#ffffff", "align": "center" },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        { "text": "5 choses à ÉVITER", "size": 66, "weight": "bold", "y": 1100 },
+        { "text": "si tu veux changer ton corps", "size": 50, "weight": "bold", "y": 1200 },
+        { "text": "en 90 jours.", "size": 56, "weight": "bold", "y": 1280 }
+      ]
+    },
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        { "text": "1. ne change pas tout", "size": 52, "weight": "bold", "y": 900 },
+        { "text": "d'un coup.", "size": 52, "weight": "bold", "y": 975 },
+        { "text": "1 habitude par semaine.", "size": 42, "weight": "normal", "y": 1080 },
+        { "text": "tu tiens 3 mois sinon 3 jours.", "size": 38, "weight": "normal", "y": 1140 }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.4,
+      "lines": [
+        { "text": "2. arrête le ultra-clean", "size": 52, "weight": "bold", "y": 820 },
+        { "text": "tu craques en 2 semaines.", "size": 42, "weight": "normal", "y": 950 },
+        { "text": "vise 80/20.", "size": 50, "weight": "bold", "y": 1080 }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "lines": [
+        { "text": "3. ne compare pas ton J1", "size": 48, "weight": "bold", "y": 880 },
+        { "text": "au J90 d'un autre.", "size": 48, "weight": "bold", "y": 960 },
+        { "text": "compare ton J1", "size": 42, "weight": "normal", "y": 1070 },
+        { "text": "à ton J7.", "size": 44, "weight": "bold", "y": 1135 }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        { "text": "4. utilise ScrollUps", "size": 64, "weight": "bold", "y": 180 },
+        { "text": "le tel s'ouvre QUE", "size": 40, "weight": "normal", "y": 290 },
+        { "text": "si t'as bougé.", "size": 40, "weight": "normal", "y": 345 },
+        { "text": "fini les 'demain je commence'.", "size": 36, "weight": "bold", "y": 410 }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        { "text": "5. mesure pas que la balance", "size": 46, "weight": "bold", "y": 880 },
+        { "text": "photos, force,", "size": 44, "weight": "normal", "y": 985 },
+        { "text": "énergie, humeur.", "size": 44, "weight": "normal", "y": 1055 },
+        { "text": "tout compte.", "size": 44, "weight": "bold", "y": 1140 }
+      ]
+    }
+  ]
+}

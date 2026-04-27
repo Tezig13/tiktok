@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "title": "Comment passer à l'action sans réfléchir",
+    "template_id": "comment-sans",
+    "tags": [
+      "action",
+      "mindset"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "Comment passer à l'action",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "sans réfléchir",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "(la règle des 5 secondes).",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. compte 5-4-3-2-1",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "et bouge.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "avant que ton cerveau négocie.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. minimum ridicule",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "3 pompes. c'est tout.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "impossible de refuser.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. décide la veille",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "pas le matin.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "le matin t'es ton pire ennemi.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "si t'as pas la flamme,",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "le tel décide pour toi.",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "imbattable.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. accepte l'imperfection",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "5 pompes pourries",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "> 50 parfaites jamais faites.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

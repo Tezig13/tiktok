@@ -1,0 +1,124 @@
+{
+  "_meta": {
+    "title": "Sport ou régime — qui gagne ?",
+    "template_id": "punchlines",
+    "tags": [
+      "nutrition",
+      "sport"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "Sport ou régime ?",
+          "size": 50,
+          "weight": "bold",
+          "y": 240
+        },
+        {
+          "text": "la vraie réponse.",
+          "size": 50,
+          "weight": "bold",
+          "y": 310
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "perdre du gras",
+          "size": 50,
+          "weight": "bold",
+          "y": 280
+        },
+        {
+          "text": "c'est 80% nutrition.",
+          "size": 50,
+          "weight": "bold",
+          "y": 350
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "prendre du muscle",
+          "size": 50,
+          "weight": "bold",
+          "y": 280
+        },
+        {
+          "text": "c'est 50/50.",
+          "size": 50,
+          "weight": "bold",
+          "y": 350
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "sans sport,",
+          "size": 50,
+          "weight": "bold",
+          "y": 280
+        },
+        {
+          "text": "la perte = muscle aussi.",
+          "size": 50,
+          "weight": "bold",
+          "y": 350
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "ScrollUps",
+          "size": 56,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "garde les deux alignés.",
+          "size": 38,
+          "weight": "bold",
+          "y": 258
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "les deux.",
+          "size": 50,
+          "weight": "bold",
+          "y": 280
+        },
+        {
+          "text": "toujours.",
+          "size": 50,
+          "weight": "bold",
+          "y": 350
+        }
+      ]
+    }
+  ]
+}

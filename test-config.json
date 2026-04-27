@@ -1,0 +1,32 @@
+{
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imagePath": "./tips/tips1.jpeg",
+      "overlay": 0.4,
+      "lines": [
+        { "text": "TEST — hook principal", "size": 82, "weight": "bold", "y": 540 },
+        { "text": "(sous-titre de test)", "size": 56, "weight": "normal", "y": 680 }
+      ]
+    },
+    {
+      "imagePath": "./tips/tips5.jpeg",
+      "overlay": 0.5,
+      "lines": [
+        { "text": "Point 1 : texte wrap automatique sur plusieurs lignes quand c'est long", "size": 62, "weight": "bold", "y": 360 }
+      ]
+    },
+    {
+      "imagePath": "./tips/tips7.jpeg",
+      "overlay": 0.3,
+      "lines": [
+        { "text": "CTA final", "size": 88, "weight": "bold", "y": 860 },
+        { "text": "tu gardes ou tu changes ?", "size": 56, "weight": "normal", "y": 1000 }
+      ]
+    }
+  ]
+}

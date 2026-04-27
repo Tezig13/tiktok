@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "title": "5 trucs pour arrêter de te distraire",
+    "template_id": "5-a-eviter",
+    "tags": [
+      "distraction",
+      "focus"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "5 trucs pour arrêter",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "de te distraire",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "toutes les 5 min.",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. désactive toutes les notifs",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "sauf appels et SMS.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "le silence c'est l'or.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. mode avion 2h",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "quand tu bosses.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "option nucléaire mais ça marche.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. blocks Instagram/TikTok",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "aux heures de boulot.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "règle dans les paramètres.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "la distraction principale",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "c'est le scroll.",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "traité à la racine.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. café + concentration",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "évite le multitâche.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "une chose à la fois.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

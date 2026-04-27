@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "title": "Comment construire un mental de fer",
+    "template_id": "voici-les-conseils",
+    "tags": [
+      "mental",
+      "discipline"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "voici comment j'ai",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "construit un mental de fer",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "(en 1 an).",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. j'ai fait des trucs durs",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "volontairement.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "douche froide tous les jours.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. j'ai tenu mes promesses",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "même les petites.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "3 pompes/jour pendant 365 jours.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. j'ai accepté l'inconfort",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "sans le fuir.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "le mental se construit là.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. j'ai installé ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "tenir un engagement",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "tous les jours.",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "game changer mental.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. j'ai arrêté de me plaindre",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "intérieurement et à voix haute.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "victim mode = mental faible.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

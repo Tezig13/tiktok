@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "title": "Voici comment j'ai tenu 365 jours de pompes",
+    "template_id": "voici-les-conseils",
+    "tags": [
+      "habitude",
+      "testimonial"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "voici comment j'ai tenu",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "365 jours",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "de pompes d'affilée.",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. j'ai commencé par 1 pompe",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "le J1.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "vraiment 1.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. règle absolue : jamais 2 jours skipped",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "si t'as oublié J5,",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "J6 c'est sacré.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. minimum les jours nazes",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "3 pompes même malade.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "ça compte.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. j'utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "c'est mon assurance.",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "les jours où ma volonté lâche,",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "le tel insiste.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. j'ai tracé chaque jour",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "calendrier mural avec X.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "la chaîne devient sacrée.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "title": "Comment voir tes abdos en 90 jours",
+    "template_id": "5-a-eviter",
+    "tags": [
+      "abdos",
+      "90-days"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "5 étapes pour voir",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "tes abdos",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "en 90 jours.",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. déficit calorique",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "-300/-500/jour.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "non négociable.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. 2g protéines/kg",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "garde le muscle.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "indispensable en sèche.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. soulève lourd",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "signal au corps : garde le muscle.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "3-4x/semaine.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "90 jours sans craquer.",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "le scroll = craquage.",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "tel bloqué = sec.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. patience",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "les abdos visibles",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "arrivent dans les derniers 3kg.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

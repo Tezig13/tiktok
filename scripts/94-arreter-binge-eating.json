@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "title": "Comment arrêter de craquer le soir",
+    "template_id": "comment-sans",
+    "tags": [
+      "nutrition",
+      "craquage"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "Comment arrêter",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "de craquer le soir",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "(devant Netflix).",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. mange assez le jour",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "craquages = déficit le jour.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "vise 80% des cal avant 18h.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. protéines au dîner",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "30g+ = satiété.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "le corps arrête de demander.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. brossage de dents tôt",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "21h.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "frein psychologique massif.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "Netflix + scroll = craquage.",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "tel bloqué le soir.",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "game over.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. couche-toi",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "tu mangeras pas",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "si tu dors.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "_meta": {
+    "title": "La routine quotidienne d'un mec discipliné",
+    "template_id": "sec-ete",
+    "tags": [
+      "routine",
+      "discipline"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "La routine quotidienne",
+          "size": 56,
+          "weight": "bold",
+          "y": 220
+        },
+        {
+          "text": "d'un mec discipliné",
+          "size": 50,
+          "weight": "bold",
+          "y": 298
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. 6h : réveil",
+          "size": 52,
+          "weight": "bold",
+          "y": 260
+        },
+        {
+          "text": "sans snooze.",
+          "size": 36,
+          "weight": "normal",
+          "y": 333
+        },
+        {
+          "text": "direct levé.",
+          "size": 36,
+          "weight": "normal",
+          "y": 383
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. 6h05 : eau + soleil",
+          "size": 52,
+          "weight": "bold",
+          "y": 260
+        },
+        {
+          "text": "500ml + 5 min dehors.",
+          "size": 36,
+          "weight": "normal",
+          "y": 333
+        },
+        {
+          "text": "reset circadien.",
+          "size": 36,
+          "weight": "normal",
+          "y": 383
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. 6h15 : pompes",
+          "size": 52,
+          "weight": "bold",
+          "y": 260
+        },
+        {
+          "text": "minimum 20.",
+          "size": 36,
+          "weight": "normal",
+          "y": 333
+        },
+        {
+          "text": "le corps s'allume.",
+          "size": 36,
+          "weight": "normal",
+          "y": 383
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. ScrollUps : tel après",
+          "size": 60,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "jamais avant les pompes.",
+          "size": 38,
+          "weight": "normal",
+          "y": 264
+        },
+        {
+          "text": "règle absolue.",
+          "size": 38,
+          "weight": "normal",
+          "y": 317
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "5. 7h : petit-déj 30g protéines",
+          "size": 52,
+          "weight": "bold",
+          "y": 260
+        },
+        {
+          "text": "œufs ou yaourt grec.",
+          "size": 36,
+          "weight": "normal",
+          "y": 333
+        },
+        {
+          "text": "focus pour 5h.",
+          "size": 36,
+          "weight": "normal",
+          "y": 383
+        }
+      ]
+    },
+    {
+      "imageTheme": "focus_desk",
+      "lines": [
+        {
+          "text": "6. 8h-12h : deep work",
+          "size": 52,
+          "weight": "bold",
+          "y": 260
+        },
+        {
+          "text": "les meilleures heures.",
+          "size": 36,
+          "weight": "normal",
+          "y": 333
+        },
+        {
+          "text": "protégées du scroll.",
+          "size": 36,
+          "weight": "normal",
+          "y": 383
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "7. 22h : sommeil",
+          "size": 52,
+          "weight": "bold",
+          "y": 260
+        },
+        {
+          "text": "non négociable.",
+          "size": 36,
+          "weight": "normal",
+          "y": 333
+        },
+        {
+          "text": "la discipline du soir.",
+          "size": 36,
+          "weight": "normal",
+          "y": 383
+        }
+      ]
+    }
+  ]
+}

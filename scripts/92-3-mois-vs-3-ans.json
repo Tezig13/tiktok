@@ -1,0 +1,124 @@
+{
+  "_meta": {
+    "title": "3 mois de discipline vs 3 ans à essayer",
+    "template_id": "punchlines",
+    "tags": [
+      "discipline",
+      "vérité"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "3 mois de discipline",
+          "size": 50,
+          "weight": "bold",
+          "y": 240
+        },
+        {
+          "text": "battent 3 ans à essayer.",
+          "size": 50,
+          "weight": "bold",
+          "y": 310
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "quand t'es discipliné,",
+          "size": 50,
+          "weight": "bold",
+          "y": 280
+        },
+        {
+          "text": "3 mois suffisent.",
+          "size": 50,
+          "weight": "bold",
+          "y": 350
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "quand t'essaies,",
+          "size": 50,
+          "weight": "bold",
+          "y": 280
+        },
+        {
+          "text": "3 ans donnent rien.",
+          "size": 50,
+          "weight": "bold",
+          "y": 350
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "la différence ?",
+          "size": 50,
+          "weight": "bold",
+          "y": 280
+        },
+        {
+          "text": "un système qui tient.",
+          "size": 50,
+          "weight": "bold",
+          "y": 350
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "ScrollUps fait",
+          "size": 56,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "la différence.",
+          "size": 38,
+          "weight": "bold",
+          "y": 258
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "arrête d'essayer.",
+          "size": 50,
+          "weight": "bold",
+          "y": 280
+        },
+        {
+          "text": "installe.",
+          "size": 50,
+          "weight": "bold",
+          "y": 350
+        }
+      ]
+    }
+  ]
+}

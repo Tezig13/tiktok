@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "title": "Voici comment je me suis remis au sport après 2 ans",
+    "template_id": "voici-les-conseils",
+    "tags": [
+      "reprise",
+      "testimonial"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "voici comment je me suis",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "remis au sport",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "après 2 ans d'arrêt.",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. j'ai commencé par 5 pompes",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "juste 5. au sol. dans le salon.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "pas la salle. pas un programme.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. j'ai pas touché à mon alim",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "la première semaine.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "trop de changements = abandon.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. j'ai pas regardé Instagram fitness",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "comparaison = poison",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "quand tu débutes.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. j'ai installé ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "mon tel débloque les apps",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "que si j'ai fait ma session.",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "zéro skip.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. j'ai arrêté de viser",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "le bon corps.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "j'ai visé la régularité.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

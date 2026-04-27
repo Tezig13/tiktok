@@ -1,0 +1,66 @@
+{
+  "_meta": {
+    "title": "Comment j'ai arrêté de procrastiner après 3 ans",
+    "template_id": "voici-les-conseils",
+    "tags": ["procrastination", "discipline", "testimonial"]
+  },
+  "defaults": { "fontFamily": "Montserrat, sans-serif", "color": "#ffffff", "align": "center" },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        { "text": "voici comment j'ai", "size": 58, "weight": "bold", "y": 1100 },
+        { "text": "arrêté de procrastiner", "size": 54, "weight": "bold", "y": 1190 },
+        { "text": "après 3 ans.", "size": 56, "weight": "bold", "y": 1280 }
+      ]
+    },
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        { "text": "1. j'ai arrêté de chercher", "size": 50, "weight": "bold", "y": 880 },
+        { "text": "la motivation", "size": 56, "weight": "bold", "y": 965 },
+        { "text": "elle vient JAMAIS", "size": 44, "weight": "normal", "y": 1075 },
+        { "text": "avant l'action.", "size": 44, "weight": "bold", "y": 1140 }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.4,
+      "lines": [
+        { "text": "2. j'ai cassé l'effort", "size": 52, "weight": "bold", "y": 820 },
+        { "text": "à 2 minutes", "size": 56, "weight": "bold", "y": 895 },
+        { "text": "pompes : 2 min de jumping jacks.", "size": 36, "weight": "normal", "y": 1010 },
+        { "text": "boulot : 2 min de truc moche.", "size": 36, "weight": "normal", "y": 1070 }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "lines": [
+        { "text": "3. j'ai supprimé", "size": 54, "weight": "bold", "y": 880 },
+        { "text": "les choix le matin", "size": 50, "weight": "bold", "y": 955 },
+        { "text": "tenue prête, café prêt.", "size": 42, "weight": "normal", "y": 1065 },
+        { "text": "zéro décision = zéro résistance.", "size": 36, "weight": "bold", "y": 1130 }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        { "text": "4. j'utilise ScrollUps", "size": 60, "weight": "bold", "y": 180 },
+        { "text": "mon tel se débloque QUE", "size": 40, "weight": "normal", "y": 290 },
+        { "text": "si j'ai fait mon minimum.", "size": 40, "weight": "normal", "y": 345 },
+        { "text": "impossible de procrastiner.", "size": 38, "weight": "bold", "y": 410 }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        { "text": "5. j'ai arrêté d'attendre", "size": 50, "weight": "bold", "y": 880 },
+        { "text": "le bon moment.", "size": 50, "weight": "bold", "y": 960 },
+        { "text": "le bon moment", "size": 46, "weight": "normal", "y": 1075 },
+        { "text": "c'est jamais.", "size": 46, "weight": "bold", "y": 1140 }
+      ]
+    }
+  ]
+}

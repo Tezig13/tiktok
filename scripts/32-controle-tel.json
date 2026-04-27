@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "title": "5 trucs pour reprendre le contrôle de ton tel",
+    "template_id": "5-a-eviter",
+    "tags": [
+      "scroll",
+      "phone"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "5 trucs pour reprendre",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "le contrôle",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "de ton téléphone.",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. enlève les apps du home screen",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "recherche obligatoire =",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "-50% d'ouvertures.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. notifications OFF",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "sauf appels et SMS.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "le silence c'est la liberté.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. tel en niveaux de gris",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "le cerveau perd l'attrait.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "test 24h pour voir.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "le seul truc qui force",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "vraiment ta main.",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "sport d'abord.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. range le tel hors de vue",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "out of sight = out of mind.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "vraiment.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

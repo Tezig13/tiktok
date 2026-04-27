@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "title": "5 erreurs des débutants qui les font abandonner",
+    "template_id": "5-a-eviter",
+    "tags": [
+      "débutant",
+      "reprise"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "5 erreurs qui font",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "abandonner",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "les débutants.",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. tu vises 5x/semaine d'office",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "tu craques en 14 jours.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "commence par 3.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. tu copies un programme avancé",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "5 splits, 90 min.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "tu débutes, 45 min suffisent.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. tu changes ton alim aussi",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "double effort = double abandon.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "sport d'abord.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "le premier mois est critique.",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "le tel doit te FORCER",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "à bouger.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. tu compares J1 au J365",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "d'un autre.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "compare-toi à toi-même hier.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

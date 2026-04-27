@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "purpose": "Banque d'images Pinterest pour Scrollups — angle fitness/muscle/gym inspiré du format pursport1.",
+    "last_pivot": "2026-04-24 — passage du format 'phone addiction / doomscrolling' au format 'fitness/muscle' pur (type pursport1). Les thèmes précédents ont été supprimés.",
+    "target_per_theme": "20-50 images, à étendre au fil du temps"
+  },
+
+  "themes": [
+    {
+      "id": "hook_viral_homme",
+      "folder": "pinterest_images/hook_viral_homme/",
+      "use_case": "SLIDE 1 HOOK — images d'hommes musclés en mirror selfie devant une glace. C'est le hook visuel qui arrête le scroll.",
+      "mood": "shirtless ou t-shirt serré, pose mirror selfie, dark gym ou bathroom aesthetic",
+      "queries": [
+        "shirtless mirror selfie gym",
+        "muscle mirror selfie aesthetic",
+        "men flex mirror dark",
+        "bodybuilder mirror selfie",
+        "fit guy mirror aesthetic",
+        "shirtless gym mirror dark",
+        "aesthetic physique mirror",
+        "muscular man mirror aesthetic"
+      ]
+    },
+    {
+      "id": "gym",
+      "folder": "pinterest_images/gym/",
+      "use_case": "SLIDES INTERMÉDIAIRES (points 1-3) — salle de sport + personnes en train de s'entraîner. Contexte visuel fort aligné fitness.",
+      "mood": "dark gym aesthetic, moody, équipement, training, pompes, haltères",
+      "queries": [
+        "dark gym aesthetic",
+        "gym equipment dark",
+        "bodybuilder training aesthetic",
+        "pushups dark aesthetic",
+        "dumbbells dark aesthetic",
+        "elevator mirror selfie gym",
+        "man training dark gym",
+        "cable machine gym aesthetic",
+        "deadlift aesthetic",
+        "weight room dark"
+      ]
+    },
+    {
+      "id": "nourriture",
+      "folder": "pinterest_images/nourriture/",
+      "use_case": "SLIDE 'pattern interrupt' — plat, shaker, meal prep. Comme slide 3 de pursport1 avec le shaker 3120 calories. Rupture visuelle qui retient l'attention.",
+      "mood": "food aesthetic + contexte fitness (bulk meal, shakes, protein breakfast)",
+      "queries": [
+        "protein shake aesthetic",
+        "bulk meal aesthetic",
+        "ugly shake peanut butter oats",
+        "bodybuilder meal aesthetic",
+        "high protein breakfast dark",
+        "meal prep dark aesthetic",
+        "homemade protein smoothie",
+        "chicken rice meal aesthetic",
+        "nutrition bowl dark",
+        "proteinrich meal photo"
+      ]
+    }
+  ],
+
+  "avatars_generation_brief": {
+    "folder": "avatars/",
+    "note": "Tes avatars IA générés avec ChatGPT. 1 seul perso à travers toutes les poses pour la cohérence brand.",
+    "priority_poses": [
+      "Mirror selfie shirtless salle de bain (comme s2 pursport1)",
+      "Gym shirtless avec smartphone en main (comme s1 pursport1)",
+      "Elevator mirror selfie en t-shirt serré (comme s4 pursport1)",
+      "Pompes à la maison, vue de côté (pour slide ScrollUps)"
+    ]
+  },
+
+  "app_screenshots": {
+    "folder": "app_screenshots/",
+    "note": "Screenshots de l'app ScrollUps — écran Missions (Pompes, Planche, Jumping Jacks), lock screen, programme. Pour la slide 4-5 du slideshow (placement produit)."
+  }
+}

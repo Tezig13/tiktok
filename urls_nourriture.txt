@@ -1,0 +1,29 @@
+# THÈME : nourriture
+# Dossier cible : pinterest_images/nourriture/
+#
+# Usage : plats, shakers, meals — pour les slides "pattern interrupt" ou conseils nutrition.
+# Dans pursport1, c'est la slide 3 : "ne fais pas ce shaker" avec image du shaker dégueu.
+#
+# Queries Pinterest à essayer :
+#   protein shake aesthetic
+#   bulk meal aesthetic
+#   ugly shake peanut butter oats
+#   bodybuilder meal aesthetic
+#   high protein breakfast dark
+#   meal prep dark aesthetic
+#   homemade protein smoothie
+#   chicken rice meal aesthetic
+#   nutrition bowl dark
+#   proteinrich meal photo
+#
+# Commande pour download :
+#   python3 pinterest-downloader.py nourriture urls_nourriture.txt
+#
+# === COLLE TES URLs CI-DESSOUS (une par ligne) ===
+https://i.pinimg.com/736x/21/37/7a/21377a7d7b16cf5b6f5dd0a4c6882a0f.jpg
+https://i.pinimg.com/736x/5c/c4/79/5cc479d0c8f6b61cc6e22eab763e57ec.jpg
+https://i.pinimg.com/736x/06/48/d1/0648d15e4a5c3ebb074e3a59d00159b0.jpg
+https://i.pinimg.com/1200x/4d/85/93/4d8593e2fb9c5905b6d0681d33a7d496.jpg
+https://i.pinimg.com/736x/00/f9/c8/00f9c8b6297959e0b9689dd04aa6a0bf.jpg
+https://i.pinimg.com/736x/77/e0/92/77e0920c256497cbc0ee08c189aebf54.jpg
+https://i.pinimg.com/736x/bc/5b/b0/bc5bb014a53746f49be7607296340e87.jpg

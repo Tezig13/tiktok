@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "title": "Comment arrêter le sucre en 14 jours",
+    "template_id": "comment-sans",
+    "tags": [
+      "sucre",
+      "sec"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "Comment arrêter le sucre",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "en 14 jours",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "(sans craquer).",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. vide ton placard",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "tu manges pas",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "ce qui n'est pas là.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. mange plus de protéines",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "30g par repas.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "tue la faim de sucre.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. fruits comme dessert",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "banane, pomme.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "satisfait sans craquer.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "le scroll = craquage.",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "tel bloqué = sucre bloqué.",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "testé.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. dors 8h",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "peu de sommeil = envie de sucre.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "sciencitfique.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

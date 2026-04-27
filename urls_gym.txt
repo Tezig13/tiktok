@@ -1,0 +1,24 @@
+# THÈME : gym
+# Dossier cible : pinterest_images/gym/
+#
+# Usage : salle de sport + personnes en train de faire du sport (pompes, exercices, haltères, machines).
+# Ces images servent pour les SLIDES INTERMÉDIAIRES (points 1-3) des slideshows.
+#
+# Queries Pinterest à essayer :
+#   dark gym aesthetic
+#   gym equipment dark
+#   bodybuilder training aesthetic
+#   pushups dark aesthetic
+#   dumbbells dark aesthetic
+#   elevator mirror selfie gym
+#   man training dark gym
+#   cable machine gym aesthetic
+#   deadlift aesthetic
+#   weight room dark
+#
+# Commande pour download :
+#   python3 pinterest-downloader.py gym urls_gym.txt
+#
+# === COLLE TES URLs CI-DESSOUS (une par ligne) ===
+
+

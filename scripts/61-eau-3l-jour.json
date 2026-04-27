@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "title": "Comment boire 3L d'eau par jour sans souffrir",
+    "template_id": "comment-sans",
+    "tags": [
+      "eau",
+      "hydratation"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "Comment boire 3L d'eau",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "par jour",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "sans souffrir.",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. gourde 1L visible",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "sur ton bureau.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "out of sight = oubli.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. 500ml au réveil",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "direct.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "réhydrate la nuit.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. 500ml avant chaque repas",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "déjà 1.5L acquis.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "3 repas = facile.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "la régularité hydrique",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "c'est tous les jours.",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "zéro oubli avec le tel.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. ajoute saveur naturelle",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "citron, concombre.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "tu kiffes plus.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

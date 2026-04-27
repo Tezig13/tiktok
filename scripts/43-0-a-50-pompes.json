@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "title": "Voici comment je suis passé de 0 à 50 pompes",
+    "template_id": "voici-les-conseils",
+    "tags": [
+      "pompes",
+      "transformation"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "voici comment je suis",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "passé de 0 à 50 pompes",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "en 90 jours.",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. j'ai commencé sur les genoux",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "3 séries de 5.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "c'était dur. très.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. j'ai progressé en négatives",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "5 sec à la descente.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "clé absolue.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. j'ai fait pompes EVERY DAMN DAY",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "jamais de jour off.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "même 5.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. j'ai utilisé ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "mon tel m'a forcé",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "les jours où je voulais skip.",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "45 jours sans rater.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. à J60 j'étais à 30",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "à J90 à 50.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "la régularité fait tout.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

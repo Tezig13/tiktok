@@ -1,0 +1,14 @@
+# Format : une URL par ligne. Lignes vides et # ignorées.
+# Commande : python3 pinterest-downloader.py <theme> urls_example.txt
+# Exemple de thème : gym, club, chambre, bureau, sunset, avatar, etc.
+#
+# Pour obtenir l'URL d'une image Pinterest :
+#   1. Clique sur l'image dans Pinterest
+#   2. Clic droit sur la grande image → "Copier l'adresse de l'image"
+#   3. Colle ici (doit commencer par https://i.pinimg.com/originals/...)
+#
+# Recommandation : récupère des images en portrait (9:16) déjà compressées ~1080px
+# Le format /originals/ est la meilleure qualité disponible sur Pinterest.
+
+https://i.pinimg.com/originals/ab/cd/ef/EXAMPLE_HASH_1.jpg
+https://i.pinimg.com/originals/12/34/56/EXAMPLE_HASH_2.jpg

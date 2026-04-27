@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "title": "Comment avoir des bras explosés",
+    "template_id": "comment-sans",
+    "tags": [
+      "bras",
+      "muscle"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "Comment avoir des bras",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "explosés",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "en 6 mois.",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. les triceps font 60% du bras",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "focus dessus,",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "pas que sur les biceps.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. close-grip bench + dips",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "les rois des triceps.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "non négociable.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. curl marteau + curl barre",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "varie les angles.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "les biceps ont 2 chefs.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "les bras = volume hebdo élevé.",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "tu peux pas skip une semaine.",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "le tel garde le rythme.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. mange 2g protéines/kg",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "les bras sont petits.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "besoin de surplus.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

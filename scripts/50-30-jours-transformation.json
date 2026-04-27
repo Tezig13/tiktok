@@ -1,0 +1,165 @@
+{
+  "_meta": {
+    "title": "Voici ce qui se passe quand tu fais 30 jours de sport",
+    "template_id": "voici-les-conseils",
+    "tags": [
+      "challenge",
+      "30-days"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "voici ce qui se passe",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "quand tu fais 30 jours",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "de sport sans skip.",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. semaine 1 : douleurs",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "partout. tu veux abandonner.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "tiens.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. semaine 2 : énergie",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "le sommeil s'améliore.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "le matin tu kiffes.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "3. semaine 3 : addiction",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "tu skip plus.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "tu cherches comment intensifier.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. j'utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "c'est ce qui m'a permis",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "de tenir 30 jours.",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "sans cette appli, j'aurais skippé.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. semaine 4 : transformation",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "visuelle ET mentale.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "tu ne reviens jamais en arrière.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

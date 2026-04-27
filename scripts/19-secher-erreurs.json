@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "title": "5 erreurs en sèche qui ruinent ton muscle",
+    "template_id": "5-a-eviter",
+    "tags": [
+      "sec",
+      "muscle"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "5 erreurs en sèche",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "qui ruinent",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "ton muscle.",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. déficit trop agressif",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "-1000 cal = -muscle direct.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "reste à -300/-500.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. protéines trop basses",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "2g/kg minimum en sèche.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "plus le déficit augmente.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. tu fais que du cardio",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "soulève lourd 3-4x/sem.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "signal au corps : garde le muscle.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "la régularité fait 80%.",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "en sèche tu vas vouloir skip.",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "impossible avec ScrollUps.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. tu coupes les glucides à 0",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "besoin de glycogène",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "pour les séances lourdes.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

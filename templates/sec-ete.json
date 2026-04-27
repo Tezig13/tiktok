@@ -1,0 +1,80 @@
+{
+  "_meta": {
+    "template": "sec-ete",
+    "source": "exemple1 — format 'Comment être bien sec' avec 7 tips numérotés + sub-explications",
+    "how_to_use": [
+      "1. cp templates/sec-ete.json slides-config.json",
+      "2. Remplace les [BRACKETS]",
+      "3. node generate-slides.js"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        { "text": "[Hook ex: Comment être bien sec pour cet été]", "size": 56, "weight": "bold", "y": 240 }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        { "text": "1. [tip principal]", "size": 52, "weight": "bold", "y": 280 },
+        { "text": "[sous-explication casual]", "size": 36, "weight": "normal", "y": 380 }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        { "text": "2. [tip principal]", "size": 52, "weight": "bold", "y": 280 },
+        { "text": "[sous-explication casual]", "size": 36, "weight": "normal", "y": 380 }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.4,
+      "lines": [
+        { "text": "3. [tip principal]", "size": 52, "weight": "bold", "y": 280 },
+        { "text": "[sous-explication casual]", "size": 36, "weight": "normal", "y": 380 }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        { "text": "4. utilise ScrollUps", "size": 56, "weight": "bold", "y": 180 },
+        { "text": "[sous-explication ScrollUps]", "size": 38, "weight": "normal", "y": 280 }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.45,
+      "lines": [
+        { "text": "5. [tip principal]", "size": 52, "weight": "bold", "y": 280 },
+        { "text": "[sous-explication]", "size": 36, "weight": "normal", "y": 380 }
+      ]
+    },
+    {
+      "imageTheme": "hook_viral_homme",
+      "overlay": 0.5,
+      "lines": [
+        { "text": "6. [tip principal]", "size": 52, "weight": "bold", "y": 280 },
+        { "text": "[sous-explication]", "size": 36, "weight": "normal", "y": 380 }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        { "text": "7. [tip / CTA final]", "size": 52, "weight": "bold", "y": 280 },
+        { "text": "[sous-explication / punchline]", "size": 36, "weight": "normal", "y": 380 }
+      ]
+    }
+  ]
+}

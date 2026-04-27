@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "title": "5 raisons de ne plus skip les jambes",
+    "template_id": "5-a-eviter",
+    "tags": [
+      "jambes",
+      "muscle"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "5 raisons",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "d'arrêter de skip",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "les jambes.",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. 60% de ta testo",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "vient des squats.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "plus de testo = plus de gains partout.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. masse globale",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "les jambes = 45% du corps.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "tu skip, tu rates 45%.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. brûle plus de cal",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "en sèche c'est ton meilleur ami.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "pas en cardio. en squats.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "les jambes sont les + sautées.",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "le tel oblige.",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "plus jamais.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. proportions",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "un dos large + bras fins =",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "t'as l'air ridicule.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

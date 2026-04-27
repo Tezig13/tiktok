@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "title": "Comment doubler ta force en 6 mois",
+    "template_id": "5-a-eviter",
+    "tags": [
+      "force",
+      "progression"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "5 trucs pour doubler",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "ta force",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "en 6 mois.",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. progressive overload",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "+1kg ou +1 rep par semaine.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "non négociable.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. focus 4 mouvements",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "squat, deadlift, bench, OHP.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "rien d'autre.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. surplus calorique",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "+300 cal/jour.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "la force c'est aussi nutrition.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "la régularité fait tout.",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "3 séances/sem 6 mois",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "> 5 séances 1 mois.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. dors 8h",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "la récup c'est 50% du game.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "jamais moins.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

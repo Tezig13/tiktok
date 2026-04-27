@@ -1,0 +1,117 @@
+{
+  "_meta": {
+    "title": "30 jours sans skip — ce qui se passe",
+    "template_id": "punchlines",
+    "tags": [
+      "challenge",
+      "30-days"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "30 jours de sport",
+          "size": 50,
+          "weight": "bold",
+          "y": 240
+        },
+        {
+          "text": "sans skip.",
+          "size": 50,
+          "weight": "bold",
+          "y": 310
+        },
+        {
+          "text": "voici ce qui se passe.",
+          "size": 50,
+          "weight": "bold",
+          "y": 380
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "semaine 1 : douleurs partout.",
+          "size": 50,
+          "weight": "bold",
+          "y": 280
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "semaine 2 : énergie insolente.",
+          "size": 50,
+          "weight": "bold",
+          "y": 280
+        }
+      ]
+    },
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "semaine 3 : addiction au mouvement.",
+          "size": 50,
+          "weight": "bold",
+          "y": 280
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "semaine 4 : transformation visible.",
+          "size": 50,
+          "weight": "bold",
+          "y": 280
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "ScrollUps a permis",
+          "size": 56,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "les 30 jours sans excuse.",
+          "size": 38,
+          "weight": "bold",
+          "y": 258
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "tu reviens jamais en arrière.",
+          "size": 50,
+          "weight": "bold",
+          "y": 280
+        }
+      ]
+    }
+  ]
+}

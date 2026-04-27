@@ -1,0 +1,36 @@
+# THÈME : hook_viral_homme
+# Dossier cible : pinterest_images/hook_viral_homme/
+#
+# Usage : images d'hommes musclés en mirror selfie, pose devant la glace, shirtless ou t-shirt serré.
+# Ces images servent de SLIDE 1 HOOK pour tous les slideshows type pursport1.
+#
+# Queries Pinterest à essayer :
+#   shirtless mirror selfie gym
+#   muscle mirror selfie aesthetic
+#   men flex mirror dark
+#   bodybuilder mirror selfie
+#   fit guy mirror aesthetic
+#   shirtless gym mirror dark
+#   aesthetic physique mirror
+#   muscular man mirror aesthetic
+#
+# Commande pour download :
+#   python3 pinterest-downloader.py hook_viral_homme urls_hook_viral_homme.txt
+#
+# === COLLE TES URLs CI-DESSOUS (une par ligne) ===
+https://i.pinimg.com/736x/9e/1a/94/9e1a94e815f4d64ac26ec68f9fe7036b.jpg
+https://i.pinimg.com/736x/19/d8/ff/19d8ffa912eb8d945dc8c6d806c73a75.jpg
+https://i.pinimg.com/736x/5f/0f/3b/5f0f3b1251c7ce190a30872d84a6ce0f.jpg
+https://i.pinimg.com/736x/b8/ec/35/b8ec356c8e5267845b18e86d4fab4d7d.jpg
+https://i.pinimg.com/736x/b5/79/f9/b579f9278adea8b9ac6cafcf645d8773.jpg
+https://i.pinimg.com/736x/39/cd/82/39cd823bfa4edad1b592e970715e5bf3.jpg
+https://i.pinimg.com/736x/a9/ea/0b/a9ea0b211dc3a7c3e19b12bd95d7f6be.jpg
+https://i.pinimg.com/736x/4e/ae/7e/4eae7ed211357eb5e96397293af1900d.jpg
+https://i.pinimg.com/736x/e7/f7/77/e7f777b9b16fe1c2b712e210d985de7f.jpg
+https://i.pinimg.com/1200x/77/58/a6/7758a6cf664eadf8f1c62f5ee3b42353.jpg
+https://i.pinimg.com/1200x/2a/c9/51/2ac95120c09607b2cdc1e5e0e1bd6751.jpg
+https://i.pinimg.com/736x/e0/fa/66/e0fa666a139de563ccd54e8d126399bb.jpg
+https://i.pinimg.com/736x/96/a1/1a/96a11ac1951b388610bf5c2631ff3e1c.jpg
+https://i.pinimg.com/736x/f2/72/39/f27239397abc157f6e318b3ae03ccbaf.jpg
+https://i.pinimg.com/736x/cc/fb/26/ccfb26f130e5af299f4f8136cabd2617.jpg
+https://i.pinimg.com/736x/8f/4e/e1/8f4ee145276b70730ee9036a962ff77b.jpg

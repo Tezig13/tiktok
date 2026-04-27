@@ -1,0 +1,26 @@
+[
+  {
+    "slides": [
+      "./output/slide_01.png",
+      "./output/slide_02.png",
+      "./output/slide_03.png",
+      "./output/slide_04.png",
+      "./output/slide_05.png",
+      "./output/slide_06.png"
+    ],
+    "caption": "5 choses à éviter si tu veux te tenir à ta routine sportive 💪 #fitness #motivation #musculation #fyp",
+    "scheduledAt": "2026-04-26T19:00:00Z"
+  },
+  {
+    "slides": [
+      "./output-post2/slide_01.png",
+      "./output-post2/slide_02.png",
+      "./output-post2/slide_03.png",
+      "./output-post2/slide_04.png",
+      "./output-post2/slide_05.png",
+      "./output-post2/slide_06.png"
+    ],
+    "caption": "Voici les conseils d'un gars qui a pris 15kg de muscle 💪 #musculation #prisedemuscle #fyp",
+    "scheduledAt": "2026-04-27T19:00:00Z"
+  }
+]

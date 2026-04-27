@@ -1,0 +1,208 @@
+{
+  "_meta": {
+    "title": "Comment construire le corps dont tu rêves",
+    "template_id": "sec-ete",
+    "tags": [
+      "transformation",
+      "physique"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "Comment construire",
+          "size": 56,
+          "weight": "bold",
+          "y": 220
+        },
+        {
+          "text": "le corps dont tu rêves",
+          "size": 50,
+          "weight": "bold",
+          "y": 298
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. choisis 1 photo référence",
+          "size": 52,
+          "weight": "bold",
+          "y": 260
+        },
+        {
+          "text": "pas 10.",
+          "size": 36,
+          "weight": "normal",
+          "y": 333
+        },
+        {
+          "text": "un seul objectif visuel.",
+          "size": 36,
+          "weight": "normal",
+          "y": 383
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. backward planning",
+          "size": 52,
+          "weight": "bold",
+          "y": 260
+        },
+        {
+          "text": "part du résultat.",
+          "size": 36,
+          "weight": "normal",
+          "y": 333
+        },
+        {
+          "text": "décompose étape par étape.",
+          "size": 36,
+          "weight": "normal",
+          "y": 383
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. 3-4 séances/semaine",
+          "size": 52,
+          "weight": "bold",
+          "y": 260
+        },
+        {
+          "text": "pas 6.",
+          "size": 36,
+          "weight": "normal",
+          "y": 333
+        },
+        {
+          "text": "récup obligatoire.",
+          "size": 36,
+          "weight": "normal",
+          "y": 383
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. utilise ScrollUps",
+          "size": 60,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "le rêve s'écrit",
+          "size": 38,
+          "weight": "normal",
+          "y": 264
+        },
+        {
+          "text": "jour après jour.",
+          "size": 38,
+          "weight": "normal",
+          "y": 317
+        },
+        {
+          "text": "pas en 3 mois.",
+          "size": 38,
+          "weight": "normal",
+          "y": 370
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "5. tracke tes calories",
+          "size": 52,
+          "weight": "bold",
+          "y": 260
+        },
+        {
+          "text": "sans ça :",
+          "size": 36,
+          "weight": "normal",
+          "y": 333
+        },
+        {
+          "text": "tu navigues à l'aveugle.",
+          "size": 36,
+          "weight": "normal",
+          "y": 383
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "6. progresse en force",
+          "size": 52,
+          "weight": "bold",
+          "y": 260
+        },
+        {
+          "text": "+1kg ou +1 rep.",
+          "size": 36,
+          "weight": "normal",
+          "y": 333
+        },
+        {
+          "text": "chaque semaine.",
+          "size": 36,
+          "weight": "normal",
+          "y": 383
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "7. patience absolue",
+          "size": 52,
+          "weight": "bold",
+          "y": 260
+        },
+        {
+          "text": "12 mois minimum.",
+          "size": 36,
+          "weight": "normal",
+          "y": 333
+        },
+        {
+          "text": "les pros mettent 5 ans.",
+          "size": 36,
+          "weight": "normal",
+          "y": 383
+        }
+      ]
+    }
+  ]
+}

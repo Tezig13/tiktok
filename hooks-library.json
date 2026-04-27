@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "purpose": "Hooks TikTok pour Scrollups — pivot 2026-04-24 vers format pursport1 pur (muscle/fitness/shirtless). Scrollups se positionne comme outil de discipline/consistance dans ce wrapper fitness.",
+    "last_update": "2026-04-24"
+  },
+
+  "templates": [
+    {
+      "id": "5-a-eviter",
+      "pattern": "5 choses à ÉVITER si tu veux [OBJECTIF FITNESS]",
+      "structure": "Hook négatif + chiffre 5 + ÉVITER en MAJUSCULES + visuel shirtless mirror selfie",
+      "why_it_works": "Loss aversion + contrat implicite (5 swipes). Vibe pursport1. Visuel stoppe le scroll, promesse fait swiper.",
+      "source_proof": "pursport1 — 27k vues / 650 likes / 8 comments en 1 jour, format gagnant 2025-2026",
+      "hook_examples": [
+        "5 choses à ÉVITER si tu veux prendre du muscle",
+        "5 choses à ÉVITER si tu veux enfin te discipliner à l'entraînement",
+        "5 erreurs qui t'empêchent de tenir 3 mois au sport",
+        "5 choses à ÉVITER si tu veux vraiment transformer ton corps",
+        "5 erreurs que font 90% des débutants en salle"
+      ],
+      "scrollups_placement": "Slide 4 ou 5. Cadrage = outil de DISCIPLINE / CONSISTANCE, pas d'addiction phone. Ex: 'ne laisse pas tes apps être accessibles avant ta séance — ScrollUps bloque Insta/TikTok tant que t'as pas fait tes pompes du jour.'"
+    },
+    {
+      "id": "voici-les-conseils",
+      "pattern": "voici les conseils d'un gars qui [résultat physique radical]",
+      "structure": "Testimonial + preuve avant/après + 5 conseils numérotés",
+      "why_it_works": "Preuve sociale immédiate via transformation visible. Identité ('un gars qui...') = crédibilité sans argument.",
+      "source_proof": "pertepoids — 143k vues en 1 semaine (gars qui a perdu 30kg)",
+      "hook_examples": [
+        "voici les conseils d'un gars qui a pris 15kg de muscle en 1 an",
+        "voici ce qui a marché pour moi quand j'ai enfin tenu 6 mois de sport",
+        "voici comment j'ai transformé mon corps en 4 mois (sans coach)",
+        "voici les conseils d'un gars qui ne manque plus une seule séance"
+      ],
+      "scrollups_placement": "Slide 4 = conseil type 'j'ai arrêté de compter sur ma motivation, j'ai installé ScrollUps — mon tel me force à bouger avant de scroller.'"
+    },
+    {
+      "id": "comment-sans",
+      "pattern": "Comment [faire X fitness] sans [problème Y]",
+      "structure": "Promesse double bénéfice + parenthèse bonus",
+      "why_it_works": "Deux désirs satisfaits. Parenthèse = boost curiosité.",
+      "source_proof": "tips alcool Scrollups — 50k vues / 965 likes (format validé sur l'account)",
+      "hook_examples": [
+        "Comment tenir ta routine sportive sans motivation (et même kiffer)",
+        "Comment prendre du muscle sans y passer 2h par jour",
+        "Comment rester discipliné quand t'as la flemme (sans te forcer)",
+        "Comment t'entraîner tous les jours sans burnout"
+      ],
+      "scrollups_placement": "Slide 4 = 'j'utilise ScrollUps, mon tel débloque les apps QUE si j'ai fait mes 3 min de sport. Fini la flemme.'"
+    }
+  ],
+
+  "hooks_validated": [
+    {
+      "hook": "Comment boire sans te ruiner la santé (et même t'entraîner le lendemain)",
+      "template_id": "comment-sans",
+      "metrics": { "views": 50000, "likes": 965, "comments": 5 },
+      "posted": "2026-04-16",
+      "notes": "Premier format validé pour Scrollups. Ratio like/vue 1.9% (correct). Engagement commentaires faible — à améliorer avec dernière slide plus clivante."
+    }
+  ],
+
+  "hooks_to_test": [
+    {
+      "hook": "5 choses à ÉVITER si tu veux prendre du muscle en 2026",
+      "template_id": "5-a-eviter",
+      "status": "pending",
+      "priority": "high",
+      "notes": "Clone direct pursport1 pour tester le format sur notre account."
+    },
+    {
+      "hook": "5 choses à ÉVITER si tu veux enfin te tenir à ta routine sportive",
+      "template_id": "5-a-eviter",
+      "status": "pending",
+      "priority": "high",
+      "notes": "Variante qui amène mieux ScrollUps — angle discipline/consistance."
+    },
+    {
+      "hook": "voici les conseils d'un gars qui a pris 15kg de muscle en 1 an",
+      "template_id": "voici-les-conseils",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "hook": "Comment rester discipliné au sport quand t'as pas la motivation",
+      "template_id": "comment-sans",
+      "status": "pending",
+      "priority": "medium"
+    }
+  ],
+
+  "structure_guide": {
+    "slides_count": 6,
+    "slide_roles": [
+      { "n": 1, "role": "hook", "image": "pinterest_images/hook_viral_homme/ ou avatar shirtless gym", "notes": "Mec musclé mirror selfie. Texte = hook principal. Style pursport1 s1." },
+      { "n": 2, "role": "point_1", "image": "pinterest_images/hook_viral_homme/ ou avatar mirror shirtless", "notes": "Deuxième pose shirtless + conseil contre-intuitif. Style pursport1 s2." },
+      { "n": 3, "role": "point_2_pattern_interrupt", "image": "pinterest_images/nourriture/", "notes": "Rupture visuelle avec food/shaker. Style pursport1 s3." },
+      { "n": 4, "role": "point_3", "image": "pinterest_images/gym/ ou avatar", "notes": "Training, elevator, gym context. Style pursport1 s4." },
+      { "n": 5, "role": "point_4_scrollups_placement", "image": "app_screenshots/ + avatar", "notes": "Placement produit ScrollUps. Cadrage = outil de discipline. Style pursport1 s5 (placement Calyra)." },
+      { "n": 6, "role": "cta_emotional", "image": "cinematic (à sourcer quand besoin)", "notes": "Image cinématographique + phrase qui claque. Style pursport1 s6 (Blade Runner)." }
+    ]
+  },
+
+  "negative_constraints": [
+    "Pas de marketing-speak : révolutionnaire, game-changer, incontournable, must-have, Découvrez.",
+    "Pas d'openers 'Did you know' / 'Saviez-vous que'.",
+    "Placement ScrollUps JAMAIS en slide 1 — toujours slide 4-5 naturellement intégré.",
+    "Ne pas cadrer ScrollUps comme 'app anti-phone' → cadrer comme 'outil de discipline sportive'.",
+    "Pas plus de 3 lignes par slide pour les points numérotés.",
+    "Le copy doit sonner comme un pote qui partage ses tips, pas comme une marque."
+  ]
+}

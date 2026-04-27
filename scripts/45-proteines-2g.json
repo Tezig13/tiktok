@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "title": "Comment manger 2g/kg de protéines sans souffrir",
+    "template_id": "comment-sans",
+    "tags": [
+      "nutrition",
+      "protéines"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "Comment manger 2g/kg",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "de protéines",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "sans souffrir.",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. 30g par repas",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "5 repas = 150g facile.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "sur 80kg : c'est 1.9g/kg.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. petit déj 3 œufs",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "15g de prot direct.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "avant que tu réfléchisses.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. yaourt grec en collation",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "15-20g par pot.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "pratique, pas cher.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "la nutrition c'est régularité",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "ScrollUps t'oblige à",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "tenir tes habitudes.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. shaker de secours",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "les jours pressés.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "30g en 2 min.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

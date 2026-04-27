@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "title": "Voici comment j'ai pris 5kg de muscle en 3 mois",
+    "template_id": "voici-les-conseils",
+    "tags": [
+      "muscle",
+      "transformation"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "voici comment j'ai pris",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "5kg de muscle",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "en 3 mois.",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "1. j'ai mangé 3500 cal/jour",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "même les jours sans entraînement.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "la prise de masse c'est 24/7.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. progressive overload",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "+1kg ou +1 rep",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "chaque semaine.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. 4 séances/semaine",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "full body 2x + push/pull 2x.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "jamais 5+.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. j'utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "j'ai zéro skippé en 90 jours.",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "le tel m'oblige à m'entraîner.",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "game changer.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. j'ai dormi 9h",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "prise de muscle = récupération.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "le muscle pousse la nuit.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}

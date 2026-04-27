@@ -1,0 +1,60 @@
+{
+  "defaults": { "fontFamily": "Montserrat, sans-serif", "color": "#ffffff", "align": "center" },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        { "text": "voici comment j'ai pris", "size": 54, "weight": "bold", "y": 1100 },
+        { "text": "12kg de muscle", "size": 62, "weight": "bold", "y": 1180 },
+        { "text": "en 1 an (sans salle).", "size": 50, "weight": "bold", "y": 1270 }
+      ]
+    },
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        { "text": "1. j'ai commencé par", "size": 50, "weight": "bold", "y": 880 },
+        { "text": "10 pompes/jour", "size": 58, "weight": "bold", "y": 965 },
+        { "text": "juste 10. mais", "size": 44, "weight": "normal", "y": 1065 },
+        { "text": "tous les jours.", "size": 44, "weight": "bold", "y": 1130 }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.4,
+      "lines": [
+        { "text": "2. j'ai tracké", "size": 54, "weight": "bold", "y": 820 },
+        { "text": "mes calories exact", "size": 50, "weight": "bold", "y": 895 },
+        { "text": "3120 cal / 180g protéines", "size": 40, "weight": "normal", "y": 1010 },
+        { "text": "pas au feeling. jamais.", "size": 40, "weight": "normal", "y": 1075 }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "lines": [
+        { "text": "3. j'ai arrêté de compter", "size": 48, "weight": "bold", "y": 900 },
+        { "text": "sur ma motivation", "size": 48, "weight": "bold", "y": 975 },
+        { "text": "système > discipline.", "size": 42, "weight": "normal", "y": 1085 }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        { "text": "4. j'utilise ScrollUps", "size": 60, "weight": "bold", "y": 180 },
+        { "text": "le tel débloque QUE", "size": 40, "weight": "normal", "y": 290 },
+        { "text": "si j'ai fait mes pompes.", "size": 40, "weight": "normal", "y": 345 },
+        { "text": "12 mois, zéro skip.", "size": 40, "weight": "bold", "y": 415 }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        { "text": "5. j'ai arrêté de penser", "size": 48, "weight": "bold", "y": 870 },
+        { "text": "à comment je me sentais", "size": 44, "weight": "normal", "y": 960 },
+        { "text": "je pense à où", "size": 44, "weight": "normal", "y": 1070 },
+        { "text": "je serai dans 6 mois.", "size": 44, "weight": "bold", "y": 1135 }
+      ]
+    }
+  ]
+}

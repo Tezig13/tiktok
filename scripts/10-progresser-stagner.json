@@ -1,0 +1,165 @@
+{
+  "_meta": {
+    "title": "Pourquoi t'as pas progressé en 1 an",
+    "template_id": "5-a-eviter",
+    "tags": [
+      "muscle",
+      "plateau"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "5 erreurs qui",
+          "size": 64,
+          "weight": "bold",
+          "y": 1100
+        },
+        {
+          "text": "t'empêchent de progresser",
+          "size": 54,
+          "weight": "bold",
+          "y": 1190
+        },
+        {
+          "text": "en salle.",
+          "size": 54,
+          "weight": "bold",
+          "y": 1266
+        }
+      ]
+    },
+    {
+      "imageTheme": "hook_viral_homme",
+      "lines": [
+        {
+          "text": "1. tu fais que des séries longues",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "l'hypertrophie c'est 6-12 reps.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "pas 20.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "2. tu manges pas assez",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "pas de surplus = pas de muscle.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "vise +300 cal/jour.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.35,
+      "lines": [
+        {
+          "text": "3. tu changes de programme",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "toutes les 2 semaines.",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "tes muscles n'ont pas le temps.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. utilise ScrollUps",
+          "size": 64,
+          "weight": "bold",
+          "y": 180
+        },
+        {
+          "text": "tes pompes du jour avant",
+          "size": 38,
+          "weight": "normal",
+          "y": 270
+        },
+        {
+          "text": "d'ouvrir Insta.",
+          "size": 38,
+          "weight": "normal",
+          "y": 323
+        },
+        {
+          "text": "tu skipperas plus.",
+          "size": 38,
+          "weight": "normal",
+          "y": 376
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.55,
+      "lines": [
+        {
+          "text": "5. tu te compares aux autres",
+          "size": 50,
+          "weight": "bold",
+          "y": 880
+        },
+        {
+          "text": "compare-toi à toi-même",
+          "size": 42,
+          "weight": "normal",
+          "y": 950
+        },
+        {
+          "text": "d'il y a 3 mois.",
+          "size": 42,
+          "weight": "normal",
+          "y": 1009
+        }
+      ]
+    }
+  ]
+}
