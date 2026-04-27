@@ -94,6 +94,44 @@ async function loadSource(value) {
     state.currentSourceLabel = `${id} (template vide)`
   }
   state.pickerOpen = null
+  resolveAllAutoImages() // ← lock les images auto pour que preview = output
+  renderForm()
+}
+
+// Résout chaque slide en mode auto (imageTheme) en piochant une image aléatoire
+// et en l'écrivant comme imagePath, pour que la preview corresponde EXACTEMENT
+// à ce qui sera généré.
+function resolveAutoImage(slide) {
+  if (slide.imageTheme && !slide.imagePath) {
+    const themeKey = findThemeKey(slide.imageTheme)
+    const images = themeKey ? state.banks[themeKey] : []
+    if (images.length > 0) {
+      const pick = images[Math.floor(Math.random() * images.length)]
+      slide.imagePath = '.' + pick
+    }
+  }
+}
+
+function resolveAllAutoImages() {
+  if (!state.currentConfig) return
+  for (const slide of state.currentConfig.slides) {
+    resolveAutoImage(slide)
+  }
+}
+
+// Re-pioche les images auto (slides marquées avec imageTheme)
+function rerollAutoImages() {
+  if (!state.currentConfig) return
+  for (const slide of state.currentConfig.slides) {
+    if (slide.imageTheme) {
+      const themeKey = findThemeKey(slide.imageTheme)
+      const images = themeKey ? state.banks[themeKey] : []
+      if (images.length > 0) {
+        const pick = images[Math.floor(Math.random() * images.length)]
+        slide.imagePath = '.' + pick
+      }
+    }
+  }
   renderForm()
 }
 
@@ -156,10 +194,16 @@ function setImagePath(slideIdx, path) {
 
 function setImageTheme(slideIdx, themeKey) {
   const slide = state.currentConfig.slides[slideIdx]
-  delete slide.imagePath
   // themeKey = 'pinterest_images/gym' → on extrait 'gym'
   const parts = themeKey.split('/')
   slide.imageTheme = parts[parts.length - 1]
+  // Re-pioche une image random du thème (preview = output)
+  const images = state.banks[themeKey] || []
+  if (images.length > 0) {
+    slide.imagePath = '.' + images[Math.floor(Math.random() * images.length)]
+  } else {
+    delete slide.imagePath
+  }
   renderForm()
 }
 
@@ -488,7 +532,10 @@ async function openFolder(name) {
 // --- Init ---
 window.addEventListener('DOMContentLoaded', async () => {
   $('#generate-btn').addEventListener('click', generate)
-  $('#reroll-btn').addEventListener('click', generate)
+  $('#reroll-btn').addEventListener('click', () => {
+    rerollAutoImages()
+    generate()
+  })
   $('#open-folder-btn').addEventListener('click', () => {
     if (state.lastGenerated) openFolder(state.lastGenerated.name)
   })
