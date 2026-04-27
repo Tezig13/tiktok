@@ -1,0 +1,46 @@
+{
+  "1.jpeg": [
+    "homme",
+    "salle",
+    "musculation",
+    "abdos",
+    "motivation"
+  ],
+  "2.jpeg": [
+    "homme",
+    "salle",
+    "musculation",
+    "motivation",
+    "routine"
+  ],
+  "3.jpeg": [
+    "homme",
+    "salle",
+    "cardio",
+    "motivation",
+    "routine"
+  ],
+  "4.jpeg": [
+    "femme",
+    "chambre",
+    "sommeil",
+    "routine",
+    "dos"
+  ],
+  "5.jpeg": [
+    "repas",
+    "alimentation",
+    "nutrition",
+    "analyse",
+    "healthy",
+    "proteine"
+  ],
+  "6.jpeg": [
+    "eau",
+    "bouteille",
+    "motivation",
+    "healthy",
+    "lifestyle",
+    "fitness"
+  ]
+}

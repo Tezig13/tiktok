@@ -5,9 +5,11 @@
   "scripts": {
     "generate": "node generate-slides.js",
     "schedule": "node batch-schedule.js",
-    "web": "node server.js"
+    "web": "node server.js",
+    "tag-images": "node --env-file=.env tag-images.js"
   },
   "dependencies": {
+    "@google/genai": "^1.50.1",
     "@napi-rs/canvas": "^0.1.59",
     "express": "^4.22.1",
     "sharp": "^0.33.5"

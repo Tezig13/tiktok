@@ -23,7 +23,19 @@ const slides = Array.isArray(config) ? config : config.slides
 const defaults = Array.isArray(config) ? {} : (config.defaults || {})
 
 const usedImages = new Set()
-function pickRandomFromTheme(themeName) {
+const manifestCache = new Map()
+function loadManifest(folder) {
+  if (manifestCache.has(folder)) return manifestCache.get(folder)
+  const path = join(folder, 'manifest.json')
+  let data = {}
+  if (existsSync(path)) {
+    try { data = JSON.parse(readFileSync(path, 'utf-8')) } catch {}
+  }
+  manifestCache.set(folder, data)
+  return data
+}
+
+function pickRandomFromTheme(themeName, wantedTags = []) {
   const candidates = [
     `./pinterest_images/${themeName}`,
     `./avatars/${themeName}`,
@@ -33,10 +45,26 @@ function pickRandomFromTheme(themeName) {
     const files = readdirSync(folder)
       .filter(f => /\.(jpe?g|png|webp)$/i.test(f))
       .map(f => join(folder, f))
-    const available = files.filter(f => !usedImages.has(f))
-    const pool = available.length > 0 ? available : files
-    if (pool.length === 0) continue
-    const pick = pool[Math.floor(Math.random() * pool.length)]
+    let available = files.filter(f => !usedImages.has(f))
+    if (available.length === 0) available = files
+    if (available.length === 0) continue
+
+    if (wantedTags.length > 0) {
+      const norm = s => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
+      const manifest = loadManifest(folder)
+      const wanted = wantedTags.map(norm)
+      const scored = available.map(f => {
+        const tags = (manifest[f.split('/').pop()] || []).map(norm)
+        const score = tags.filter(t => wanted.includes(t)).length
+        return { f, score }
+      })
+      const maxScore = Math.max(...scored.map(s => s.score))
+      if (maxScore > 0) {
+        available = scored.filter(s => s.score === maxScore).map(s => s.f)
+      }
+    }
+
+    const pick = available[Math.floor(Math.random() * available.length)]
     usedImages.add(pick)
     return pick
   }
@@ -45,7 +73,7 @@ function pickRandomFromTheme(themeName) {
 
 for (const slide of slides) {
   if (!slide.imagePath && slide.imageTheme) {
-    const picked = pickRandomFromTheme(slide.imageTheme)
+    const picked = pickRandomFromTheme(slide.imageTheme, slide.imageTags || [])
     if (picked) {
       slide.imagePath = picked
     } else {
