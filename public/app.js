@@ -287,13 +287,15 @@ function renderForm() {
             ${slide.lines.map((line, lineIdx) => {
               const topPct = (line.y / 1920) * 100
               const fontPx = Math.max(8, Math.round(line.size / 1080 * 280))
+              const wrapped = wrapLineForPreview(line)
+              const weightCss = line.weight === 'bold' ? '700' : (line.weight === '600' ? '600' : '400')
               return `
                 <div class="overlay-line"
                      data-slide="${slideIdx}"
                      data-line="${lineIdx}"
-                     style="top: ${topPct}%; font-size: ${fontPx}px; font-weight: ${line.weight === 'bold' ? '700' : '400'};"
+                     style="top: ${topPct}%; font-size: ${fontPx}px; font-weight: ${weightCss};"
                      title="Glisser pour repositionner">
-                  ${escapeHtml(line.text)}
+                  ${wrapped.map(escapeHtml).join('<br>')}
                 </div>
               `
             }).join('')}
@@ -319,7 +321,11 @@ function renderForm() {
         </div>
       `
       const ta = row.querySelector('textarea')
-      ta.addEventListener('input', () => autoResize(ta))
+      ta.addEventListener('input', () => {
+        autoResize(ta)
+        slide.lines[lineIdx].text = ta.value
+        syncOverlayText(slideIdx, lineIdx)
+      })
       setTimeout(() => autoResize(ta), 0)
       linesList.appendChild(row)
     })
@@ -389,6 +395,14 @@ function syncOverlayPosition(slideIdx, lineIdx) {
   if (overlay) overlay.style.top = `${(line.y / 1920) * 100}%`
 }
 
+function syncOverlayText(slideIdx, lineIdx) {
+  const line = state.currentConfig.slides[slideIdx].lines[lineIdx]
+  const overlay = document.querySelector(`.overlay-line[data-slide="${slideIdx}"][data-line="${lineIdx}"]`)
+  if (!overlay) return
+  const wrapped = wrapLineForPreview(line)
+  overlay.innerHTML = wrapped.map(escapeHtml).join('<br>')
+}
+
 // --- Drag-and-drop pour repositionner les textes ---
 function startDrag(e) {
   e.preventDefault()
@@ -435,6 +449,40 @@ function escapeHtml(s) {
     .replace(/</g, '&lt;')
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;')
+}
+
+// Mêmes constantes que generate-slides.js
+const CANVAS_W = 1080
+const CANVAS_PADDING = 80
+const CANVAS_MAX_TEXT_W = CANVAS_W - CANVAS_PADDING * 2 // 920
+
+// Canvas caché pour mesurer les textes avec la même police que le serveur
+const _measureCanvas = document.createElement('canvas').getContext('2d')
+
+function wrapTextClient(text, fontSize, weight, maxWidth) {
+  const fontWeight = weight === 'bold' ? '700' : String(weight || 'normal')
+  _measureCanvas.font = `${fontWeight} ${fontSize}px Montserrat, sans-serif`
+  const words = String(text).split(' ')
+  const lines = []
+  let current = ''
+  for (const word of words) {
+    const test = current ? `${current} ${word}` : word
+    if (_measureCanvas.measureText(test).width > maxWidth && current) {
+      lines.push(current)
+      current = word
+    } else {
+      current = test
+    }
+  }
+  if (current) lines.push(current)
+  return lines
+}
+
+function wrapLineForPreview(line) {
+  const size = line.size || 72
+  const weight = line.weight || 'bold'
+  const maxW = line.maxWidth || CANVAS_MAX_TEXT_W
+  return wrapTextClient(line.text || '', size, weight, maxW)
 }
 
 // --- Build config from form ---
@@ -489,13 +537,22 @@ async function generate() {
 function renderOutput(result) {
   const grid = $('#output-grid')
   grid.innerHTML = ''
-  for (const src of result.slides) {
-    const img = document.createElement('img')
-    img.src = src + '?t=' + Date.now()
-    img.alt = src
-    img.addEventListener('click', () => window.open(src, '_blank'))
-    grid.appendChild(img)
-  }
+  const finalByIndex = (result.finalSlides || []).reduce((acc, p, i) => {
+    acc[i] = p
+    return acc
+  }, {})
+  result.slides.forEach((src, i) => {
+    const cell = document.createElement('div')
+    cell.className = 'output-cell'
+    const dlHref = finalByIndex[i] || src
+    const dlName = dlHref.split('/').pop()
+    cell.innerHTML = `
+      <img src="${src}?t=${Date.now()}" alt="${src}">
+      <a class="dl-btn" href="${dlHref}" download="${dlName}" title="Télécharger ce slide">⬇</a>
+    `
+    cell.querySelector('img').addEventListener('click', () => window.open(src, '_blank'))
+    grid.appendChild(cell)
+  })
 }
 
 // --- History ---
@@ -544,6 +601,13 @@ window.addEventListener('DOMContentLoaded', async () => {
   })
 
   try {
+    if (document.fonts && document.fonts.load) {
+      await Promise.all([
+        document.fonts.load('400 72px Montserrat'),
+        document.fonts.load('600 72px Montserrat'),
+        document.fonts.load('700 72px Montserrat'),
+      ])
+    }
     await loadLibrary()
     await loadHistory()
   } catch (err) {

@@ -1,6 +1,7 @@
 import { createCanvas, loadImage, GlobalFonts } from '@napi-rs/canvas'
 import { writeFileSync, mkdirSync, readFileSync, existsSync, readdirSync } from 'fs'
 import { join, dirname } from 'path'
+import { postProduce } from './post-production.js'
 
 const CONFIG_PATH = process.argv[2] || './slides-config.json'
 const OUTPUT_DIR = process.argv[3] || './output'
@@ -222,6 +223,12 @@ async function main() {
     await generateSlide(slides[i], i)
   }
   console.log(`\n✅ Terminé → ${OUTPUT_DIR}/`)
+
+  if (process.env.SKIP_POSTPROD !== '1') {
+    const grain   = process.env.GRAIN   ? parseFloat(process.env.GRAIN)   : undefined
+    const quality = process.env.QUALITY ? parseInt(process.env.QUALITY, 10) : undefined
+    await postProduce(OUTPUT_DIR, { grain, quality })
+  }
 }
 
 main().catch(err => {

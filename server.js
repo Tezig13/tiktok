@@ -16,6 +16,7 @@ app.use('/output', express.static(join(__dirname, 'output')))
 app.use('/pinterest_images', express.static(join(__dirname, 'pinterest_images')))
 app.use('/avatars', express.static(join(__dirname, 'avatars')))
 app.use('/app_screenshots', express.static(join(__dirname, 'app_screenshots')))
+app.use('/fonts', express.static(join(__dirname, 'fonts')))
 
 // --- API : list templates ---
 app.get('/api/templates', (req, res) => {
@@ -88,6 +89,15 @@ app.get('/api/banks', (req, res) => {
   res.json(banks)
 })
 
+function listFinalSlides(folder, name) {
+  const finalDir = join(folder, 'final')
+  if (!existsSync(finalDir)) return []
+  return readdirSync(finalDir)
+    .filter(f => /\.jpe?g$/i.test(f))
+    .sort()
+    .map(f => `/output/${name}/final/${f}`)
+}
+
 // --- API : list past slideshows ---
 app.get('/api/output', (req, res) => {
   const dir = join(__dirname, 'output')
@@ -100,8 +110,9 @@ app.get('/api/output', (req, res) => {
         .filter(f => /\.png$/i.test(f))
         .sort()
         .map(f => `/output/${d.name}/${f}`)
+      const finalSlides = listFinalSlides(folder, d.name)
       const mtime = statSync(folder).mtimeMs
-      return { name: d.name, slides, mtime }
+      return { name: d.name, slides, finalSlides, mtime }
     })
     .sort((a, b) => b.mtime - a.mtime)
   res.json(slideshows)
@@ -134,7 +145,8 @@ app.post('/api/generate', (req, res) => {
       .filter(f => /\.png$/i.test(f))
       .sort()
       .map(f => `/output/${safeName}/${f}`)
-    res.json({ name: safeName, slides, configPath: `configs/${safeName}.json` })
+    const finalSlides = listFinalSlides(outputDir, safeName)
+    res.json({ name: safeName, slides, finalSlides, configPath: `configs/${safeName}.json` })
   })
 })
 
