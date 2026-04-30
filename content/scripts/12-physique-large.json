@@ -1,0 +1,205 @@
+{
+  "_meta": {
+    "title": "Physique plus large",
+    "template_id": "ete-transformation",
+    "tags": [
+      "dos"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "overlay": 0.06,
+      "lines": [
+        {
+          "text": "le physique large vient de 2 muscles",
+          "size": 56,
+          "weight": "bold",
+          "y": 360,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "que 90% des mecs ignorent",
+          "size": 56,
+          "weight": "bold",
+          "y": 432,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.12,
+      "lines": [
+        {
+          "text": "1. tractions ou tirage vertical",
+          "size": 52,
+          "weight": "bold",
+          "y": 455,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "c’est la base du V",
+          "size": 38,
+          "weight": "bold",
+          "y": 605,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "pas négociable",
+          "size": 38,
+          "weight": "bold",
+          "y": 663,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.12,
+      "lines": [
+        {
+          "text": "2. rowing lourd",
+          "size": 52,
+          "weight": "bold",
+          "y": 455,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "épaisseur du dos",
+          "size": 38,
+          "weight": "bold",
+          "y": 605,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "posture plus solide",
+          "size": 38,
+          "weight": "bold",
+          "y": 663,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.18,
+      "lines": [
+        {
+          "text": "3. protéines régulières",
+          "size": 52,
+          "weight": "bold",
+          "y": 455,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "sinon tu récupères mal",
+          "size": 38,
+          "weight": "bold",
+          "y": 605,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "et tu stagnes",
+          "size": 38,
+          "weight": "bold",
+          "y": 663,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. ScrollUps",
+          "size": 58,
+          "weight": "bold",
+          "y": 170,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "tes réseaux se débloquent",
+          "size": 36,
+          "weight": "bold",
+          "y": 232,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "après ton effort muscu",
+          "size": 36,
+          "weight": "bold",
+          "y": 294,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "hook_viral_homme",
+      "overlay": 0.12,
+      "lines": [
+        {
+          "text": "un dos large",
+          "size": 54,
+          "weight": "bold",
+          "y": 420,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "change tout ton physique",
+          "size": 54,
+          "weight": "bold",
+          "y": 492,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "même habillé",
+          "size": 54,
+          "weight": "bold",
+          "y": 564,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "_meta": {
+    "title": "Épaules rondes",
+    "template_id": "ete-transformation",
+    "tags": [
+      "epaules"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "overlay": 0.06,
+      "lines": [
+        {
+          "text": "des épaules rondes",
+          "size": 56,
+          "weight": "bold",
+          "y": 360,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "changent tout ton haut du corps",
+          "size": 56,
+          "weight": "bold",
+          "y": 432,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.12,
+      "lines": [
+        {
+          "text": "1. développé militaire",
+          "size": 52,
+          "weight": "bold",
+          "y": 455,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "force de base",
+          "size": 38,
+          "weight": "bold",
+          "y": 605,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "progression lente",
+          "size": 38,
+          "weight": "bold",
+          "y": 663,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.12,
+      "lines": [
+        {
+          "text": "2. élévations latérales",
+          "size": 52,
+          "weight": "bold",
+          "y": 455,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "léger, propre",
+          "size": 38,
+          "weight": "bold",
+          "y": 605,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "beaucoup de contrôle",
+          "size": 38,
+          "weight": "bold",
+          "y": 663,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "nature_outdoor",
+      "overlay": 0.12,
+      "lines": [
+        {
+          "text": "3. récupération",
+          "size": 52,
+          "weight": "bold",
+          "y": 455,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "les épaules prennent cher",
+          "size": 38,
+          "weight": "bold",
+          "y": 605,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "dors vraiment",
+          "size": 38,
+          "weight": "bold",
+          "y": 663,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. ScrollUps",
+          "size": 58,
+          "weight": "bold",
+          "y": 170,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "tes réseaux se débloquent",
+          "size": 36,
+          "weight": "bold",
+          "y": 232,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "après ton effort muscu",
+          "size": 36,
+          "weight": "bold",
+          "y": 294,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "hook_viral_homme",
+      "overlay": 0.12,
+      "lines": [
+        {
+          "text": "les épaules",
+          "size": 54,
+          "weight": "bold",
+          "y": 420,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "donnent la carrure",
+          "size": 54,
+          "weight": "bold",
+          "y": 492,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "même sans être énorme",
+          "size": 54,
+          "weight": "bold",
+          "y": 564,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    }
+  ]
+}

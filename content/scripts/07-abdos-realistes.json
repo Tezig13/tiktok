@@ -1,0 +1,197 @@
+{
+  "_meta": {
+    "title": "Abdos réalistes",
+    "template_id": "arrete-de-faire",
+    "tags": [
+      "abdos",
+      "sec"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "overlay": 0.05,
+      "lines": [
+        {
+          "text": "tu fais des centaines de crunchs",
+          "size": 58,
+          "weight": "bold",
+          "y": 1085,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "et tes abdos restent cachés ?",
+          "size": 64,
+          "weight": "bold",
+          "y": 1161,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.18,
+      "lines": [
+        {
+          "text": "1. déficit calorique",
+          "size": 52,
+          "weight": "bold",
+          "y": 455,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "les abdos sortent",
+          "size": 38,
+          "weight": "bold",
+          "y": 605,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "quand le gras descend",
+          "size": 38,
+          "weight": "bold",
+          "y": 663,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.12,
+      "lines": [
+        {
+          "text": "2. garde la muscu",
+          "size": 52,
+          "weight": "bold",
+          "y": 455,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "sinon tu deviens juste plat",
+          "size": 38,
+          "weight": "bold",
+          "y": 605,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "nature_outdoor",
+      "overlay": 0.12,
+      "lines": [
+        {
+          "text": "3. marche tous les jours",
+          "size": 52,
+          "weight": "bold",
+          "y": 455,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "c’est le cardio",
+          "size": 38,
+          "weight": "bold",
+          "y": 605,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "que tu peux tenir",
+          "size": 38,
+          "weight": "bold",
+          "y": 663,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. ScrollUps",
+          "size": 58,
+          "weight": "bold",
+          "y": 170,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "bloque TikTok et Insta",
+          "size": 36,
+          "weight": "bold",
+          "y": 232,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "jusqu’à ton sport du jour",
+          "size": 36,
+          "weight": "bold",
+          "y": 294,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "hook_viral_homme",
+      "overlay": 0.12,
+      "lines": [
+        {
+          "text": "les abdos ne se font pas",
+          "size": 54,
+          "weight": "bold",
+          "y": 420,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "à la salle",
+          "size": 54,
+          "weight": "bold",
+          "y": 492,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "ils se font dans la cuisine",
+          "size": 54,
+          "weight": "bold",
+          "y": 564,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    }
+  ]
+}

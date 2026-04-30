@@ -1,0 +1,205 @@
+{
+  "_meta": {
+    "title": "Vrai avant-après",
+    "template_id": "ete-transformation",
+    "tags": [
+      "transformation"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "overlay": 0.06,
+      "lines": [
+        {
+          "text": "tu veux un vrai avant-après ?",
+          "size": 56,
+          "weight": "bold",
+          "y": 360,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "arrête de chercher le plan parfait",
+          "size": 56,
+          "weight": "bold",
+          "y": 432,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.12,
+      "lines": [
+        {
+          "text": "1. photos chaque semaine",
+          "size": 52,
+          "weight": "bold",
+          "y": 455,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "même lumière",
+          "size": 38,
+          "weight": "bold",
+          "y": 605,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "même angle",
+          "size": 38,
+          "weight": "bold",
+          "y": 663,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.18,
+      "lines": [
+        {
+          "text": "2. plan simple",
+          "size": 52,
+          "weight": "bold",
+          "y": 455,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "répétable",
+          "size": 38,
+          "weight": "bold",
+          "y": 605,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "pas spectaculaire",
+          "size": 38,
+          "weight": "bold",
+          "y": 663,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "nature_outdoor",
+      "overlay": 0.12,
+      "lines": [
+        {
+          "text": "3. 90 jours sans négocier",
+          "size": 52,
+          "weight": "bold",
+          "y": 455,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "le résultat arrive",
+          "size": 38,
+          "weight": "bold",
+          "y": 605,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "après l’ennui",
+          "size": 38,
+          "weight": "bold",
+          "y": 663,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. ScrollUps",
+          "size": 58,
+          "weight": "bold",
+          "y": 170,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "tes réseaux restent bloqués",
+          "size": 36,
+          "weight": "bold",
+          "y": 232,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "jusqu’à tes pompes du jour",
+          "size": 36,
+          "weight": "bold",
+          "y": 294,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "hook_viral_homme",
+      "overlay": 0.12,
+      "lines": [
+        {
+          "text": "ton avant-après",
+          "size": 54,
+          "weight": "bold",
+          "y": 420,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "se construit dans les routines",
+          "size": 54,
+          "weight": "bold",
+          "y": 492,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "ennuyeuses que personne ne voit",
+          "size": 54,
+          "weight": "bold",
+          "y": 564,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    }
+  ]
+}

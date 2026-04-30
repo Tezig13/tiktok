@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "generate": "node generate-slides.js",
+    "build-bank": "node src/build-bank.mjs",
+    "generate": "node src/generate-slides.js",
     "schedule": "node batch-schedule.js",
-    "web": "node server.js",
+    "web": "node src/server.js",
     "tag-images": "node --env-file=.env tag-images.js"
   },
   "dependencies": {

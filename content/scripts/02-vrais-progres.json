@@ -1,0 +1,188 @@
+{
+  "_meta": {
+    "title": "Tu verras de vrais progrès",
+    "template_id": "verite-qui-pique",
+    "tags": [
+      "muscle",
+      "discipline"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "overlay": 0.06,
+      "lines": [
+        {
+          "text": "tu verras de vrais progrès",
+          "size": 56,
+          "weight": "bold",
+          "y": 360,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "quand tu auras compris ça",
+          "size": 56,
+          "weight": "bold",
+          "y": 432,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.12,
+      "lines": [
+        {
+          "text": "tu n’as pas besoin",
+          "size": 54,
+          "weight": "bold",
+          "y": 420,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "d’un nouveau programme",
+          "size": 54,
+          "weight": "bold",
+          "y": 492,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.12,
+      "lines": [
+        {
+          "text": "tu as besoin",
+          "size": 54,
+          "weight": "bold",
+          "y": 420,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "de manger pareil",
+          "size": 54,
+          "weight": "bold",
+          "y": 492,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "assez longtemps",
+          "size": 54,
+          "weight": "bold",
+          "y": 564,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.12,
+      "lines": [
+        {
+          "text": "une séance moyenne faite",
+          "size": 54,
+          "weight": "bold",
+          "y": 420,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "bat une séance parfaite skippée",
+          "size": 54,
+          "weight": "bold",
+          "y": 492,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "4. ScrollUps",
+          "size": 58,
+          "weight": "bold",
+          "y": 170,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "plus de débat mental",
+          "size": 36,
+          "weight": "bold",
+          "y": 232,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "sport fait = réseaux ouverts",
+          "size": 36,
+          "weight": "bold",
+          "y": 294,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "hook_viral_homme",
+      "overlay": 0.12,
+      "lines": [
+        {
+          "text": "ceux qui progressent vraiment",
+          "size": 54,
+          "weight": "bold",
+          "y": 420,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "ne comptent pas",
+          "size": 54,
+          "weight": "bold",
+          "y": 492,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "sur leur motivation du jour",
+          "size": 54,
+          "weight": "bold",
+          "y": 564,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    }
+  ]
+}

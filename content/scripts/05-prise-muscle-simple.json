@@ -1,0 +1,196 @@
+{
+  "_meta": {
+    "title": "Prise de muscle simple",
+    "template_id": "liste-punchy",
+    "tags": [
+      "muscle"
+    ]
+  },
+  "defaults": {
+    "fontFamily": "Montserrat, sans-serif",
+    "color": "#ffffff",
+    "align": "center"
+  },
+  "slides": [
+    {
+      "imageTheme": "hook_viral_homme",
+      "overlay": 0.06,
+      "lines": [
+        {
+          "text": "t'arrives pas à prendre du muscle ?",
+          "size": 56,
+          "weight": "bold",
+          "y": 360,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "voilà exactement pourquoi",
+          "size": 56,
+          "weight": "bold",
+          "y": 432,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.12,
+      "lines": [
+        {
+          "text": "1. progressive overload",
+          "size": 52,
+          "weight": "bold",
+          "y": 380,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "une rep de plus",
+          "size": 38,
+          "weight": "bold",
+          "y": 530,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "ou un kilo de plus",
+          "size": 38,
+          "weight": "bold",
+          "y": 588,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.18,
+      "lines": [
+        {
+          "text": "2. surplus léger",
+          "size": 52,
+          "weight": "bold",
+          "y": 380,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "pas besoin de devenir gras",
+          "size": 38,
+          "weight": "bold",
+          "y": 530,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "+250 cal suffit",
+          "size": 38,
+          "weight": "bold",
+          "y": 588,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "gym",
+      "overlay": 0.12,
+      "lines": [
+        {
+          "text": "3. même programme 12 semaines",
+          "size": 52,
+          "weight": "bold",
+          "y": 380,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "arrête de changer",
+          "size": 38,
+          "weight": "bold",
+          "y": 530,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "avant de progresser",
+          "size": 38,
+          "weight": "bold",
+          "y": 588,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imageTheme": "nourriture",
+      "overlay": 0.18,
+      "lines": [
+        {
+          "text": "4. sommeil avant suppléments",
+          "size": 52,
+          "weight": "bold",
+          "y": 380,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "8h bat tous les boosters",
+          "size": 38,
+          "weight": "bold",
+          "y": 530,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    },
+    {
+      "imagePath": "./app_screenshots/scrollups.jpg",
+      "overlay": 0,
+      "lines": [
+        {
+          "text": "5. ScrollUps",
+          "size": 58,
+          "weight": "bold",
+          "y": 170,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "tes réseaux se débloquent",
+          "size": 36,
+          "weight": "bold",
+          "y": 232,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        },
+        {
+          "text": "après ton effort muscu",
+          "size": 36,
+          "weight": "bold",
+          "y": 294,
+          "stroke": true,
+          "strokeWidth": 7,
+          "shadowBlur": 10
+        }
+      ]
+    }
+  ]
+}

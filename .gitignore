@@ -10,6 +10,11 @@ Thumbs.db
 *.log
 /tmp/
 
+# Generated slides and UI-saved configs
+output/
+output-test/
+content/configs/
+
 # Claude session metadata
 .claude/
 
